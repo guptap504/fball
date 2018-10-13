@@ -6,7 +6,7 @@ from tabulate import tabulate
 
 url = 'http://api.football-data.org/v1/competitions/'
 params = {'season': 2018}
-headers = {'X-Auth-Token': '29037ca3e49a435fae15e8c15f7fb92e'}
+headers = {'X-Auth-Token': ''}
 
 
 def show_codes(year=2018):
